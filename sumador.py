@@ -11,6 +11,7 @@ from tkinter import ttk
 from tkinter import filedialog
 
 root= tk.Tk()
+root.title('Calculos Consejos')
 
 
 def getExcel ():
