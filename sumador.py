@@ -27,7 +27,7 @@ def counter():
 if __name__ == '__main__':
     #ventana
     root= tk.Tk()
-    root.title('Calculos Consejos')
+    root.title('Calculos Observadores Electorales')
     root.geometry("500x400")
     root.resizable(0,1)
 
